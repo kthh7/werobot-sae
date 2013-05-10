@@ -1,0 +1,3 @@
+name: whulibrary
+worker: wsgi
+version: 1
